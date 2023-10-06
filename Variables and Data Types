@@ -1,0 +1,9 @@
+name = "Alice"
+age = 30
+height = 5.8
+is_adult = True
+
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
+print("Is Adult?", is_adult)
